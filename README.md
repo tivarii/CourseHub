@@ -2,6 +2,10 @@
 
 A modern full-stack platform designed to streamline course enrollment and real-time interactions. Built with an advanced tech stack, it allows users to explore courses, enroll, and engage through real-time updates.
 
+##DEMO
+#https://www.loom.com/share/c1ac70035ec5415bac03ed1b69868dba?sid=9af26be9-3d25-4983-a6fa-b5823e57f10d
+
+
 ## Key Features
 
 - 📚 **Explore Courses**: View available courses with details like instructor, schedule, and syllabus
